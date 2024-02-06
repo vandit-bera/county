@@ -1,0 +1,16 @@
+{
+  "name": "county",
+  "version": "1.0.0",
+  "description": "A JavaScript library for working with state-wise county names in the United States.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vandit-bera/county"
+  },
+  "keywords": ["county", "state", "United States"],
+  "author": "Vandit Bera",
+  "license": "MIT"
+}
