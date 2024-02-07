@@ -1,6 +1,6 @@
 {
   "name": "county",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A JavaScript library for working with state-wise county names in the United States.",
   "main": "index.js",
   "scripts": {
